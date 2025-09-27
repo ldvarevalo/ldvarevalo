@@ -6,7 +6,7 @@ Soy **Desarrolladora Frontend/Mobile**, actualmente desarrollo con:
   <tbody>
     <tr>
       <td rowspan="0">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arevalu&theme=material-palenight&hide=html,css,handlebars,ruby,makefile,starlark,shell,dockerfile,c%2B%2B,objective-c,objective-c%2B%2B&langs_count=8&size_weight=0.5&count_weight=0.5" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arevalu&theme=material-palenight&hide=html,css,handlebars,ruby,makefile,starlark,shell,dockerfile,c%2B%2B,objective-c,objective-c%2B%2B,swift,python&langs_count=8&size_weight=0.5&count_weight=0.5" />
       </td>
       <td>
         <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=typescript">
@@ -39,20 +39,6 @@ Soy **Desarrolladora Frontend/Mobile**, actualmente desarrollo con:
       <td>
         <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=java">
           <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=swift">
-          <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=python">
-          <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
         </a>
       </td>
     </tr>
@@ -100,7 +86,7 @@ Soy **Desarrolladora Frontend/Mobile**, actualmente desarrollo con:
 </table>
 
 ### 🤓 Aprendiendo
-* Go
+* Kotlin / Go
 * Microfrontends
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arevalu&theme=material-palenight&repo=android-job-finder-ui)](https://github.com/anuraghazra/github-readme-stats) -->
