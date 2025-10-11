@@ -6,7 +6,7 @@ Soy **Desarrolladora Frontend/Mobile**, actualmente desarrollo con:
   <tbody>
     <tr>
       <td rowspan="0">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arevalu&theme=material-palenight&hide=html,css,handlebars,ruby,makefile,starlark,shell,dockerfile,c%2B%2B,objective-c,objective-c%2B%2B,swift,python&langs_count=8&size_weight=0.5&count_weight=0.5" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arevalu&theme=material-palenight&hide=html,css,handlebars,java,ruby,makefile,starlark,shell,dockerfile,c%2B%2B,objective-c,objective-c%2B%2B,swift,python&langs_count=5&size_weight=1&count_weight=0&layout=donut" />
       </td>
       <td>
         <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=typescript">
@@ -16,15 +16,15 @@ Soy **Desarrolladora Frontend/Mobile**, actualmente desarrollo con:
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=javascript">
-          <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=go">
+          <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=kotlin">
-          <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=javascript">
+          <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
         </a>
       </td>
     </tr>
@@ -37,8 +37,8 @@ Soy **Desarrolladora Frontend/Mobile**, actualmente desarrollo con:
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=java">
-          <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=kotlin">
+          <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
         </a>
       </td>
     </tr>
@@ -49,37 +49,45 @@ Soy **Desarrolladora Frontend/Mobile**, actualmente desarrollo con:
   <tbody>
     <tr>
       <th>
-        📱 <b>MOBILE</b>
+        🖥 <b>Web</b>
       </th>
       <th>
-        🌐 <b>BFF</b> (Backend for Frontend)
+        🌐 <b>Backend</b>
       </th>
       <th>
-        🖥 <b>WEB</b>
+        📱 <b>Mobile</b>
       </th>
     </tr>
     <tr>
+       <td>
+        <ul>
+          <li>React</li>
+          <li>Next JS (React)</li>
+          <li>Typescript</li>
+          <li>Javascript</li>
+          <li>Styled components</li>
+          <li>Testing: Jest, Vitest, react-testing-library, Playwright</li>
+        </ul>
+      </td>
       <td>
         <ul>
+          <li>Node JS</li>
+          <li>NestJS</li>
+          <li>Typescript</li>
+          <li>Express</li>
+          <li>GraphQL (con Apollo Server)</li>
+          <li>Testing: Jest, Vitest, Supertest, nock</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>React</li>
           <li>React Native</li>
           <li>Typescript</li>
           <li>GraphQL (con Apollo Client)</li>
           <li>Styled Components</li>
-          <li>Tests unitarios con Jest y react-native-testing-library</li>
+          <li>Testing: Jest y react-native-testing-library</li>
         </ul>
-      </td>
-      <td>
-        <li>Node JS</li>
-        <li>Typescript</li>
-        <li>Express</li>
-        <li>GraphQL (con Apollo Server)</li>
-        <li>Tests unitarios con Jest y nock</li>
-      </td>
-      <td>
-        <li>Next JS (React)</li>
-        <li>Typescript</li>
-        <li>Javascript</li>
-        <li>Styled components</li>
       </td>
     </tr>
   </tbody>
