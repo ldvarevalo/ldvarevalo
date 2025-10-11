@@ -1,6 +1,8 @@
 ### Hola! 👋 Mi nombre es Luciana
 
-Soy **Desarrolladora Frontend/Mobile**, actualmente desarrollo con:
+👩🏻‍💻 Actualmente trabajo como Team Lead, con experiencia en frontend (React, Angular, React Native) y en la transición hacia arquitecturas modernas como microfrontends. En los últimos meses reforcé mi perfil backend, trabajando con arquitectura hexagonal, DDD, microservicios y EDA.
+
+✨ Me interesa seguir profundizando en **backend**, ya sea con el stack actual (NodeJS, NestJS) o explorando nuevas tecnologías como Kotlin o Go.
 
 <table>
   <tbody>
