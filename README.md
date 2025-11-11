@@ -8,38 +8,38 @@
   <tbody>
     <tr>
       <td rowspan="0">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arevalu&theme=material-palenight&hide=html,css,handlebars,java,ruby,makefile,starlark,shell,dockerfile,c%2B%2B,objective-c,objective-c%2B%2B,swift,python&langs_count=5&size_weight=1&count_weight=0&layout=donut" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldvarevalo&theme=material-palenight&hide=html,css,handlebars,java,ruby,makefile,starlark,shell,dockerfile,c%2B%2B,objective-c,objective-c%2B%2B,swift,python&langs_count=5&size_weight=1&count_weight=0&layout=donut" />
       </td>
       <td>
-        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=typescript">
+        <a href="https://github.com/ldvarevalo?tab=repositories&q=&type=&language=typescript">
           <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
         </>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=go">
+        <a href="https://github.com/ldvarevalo?tab=repositories&q=&type=&language=go">
           <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=javascript">
+        <a href="https://github.com/ldvarevalo?tab=repositories&q=&type=&language=javascript">
           <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=dart">
+        <a href="https://github.com/ldvarevalo?tab=repositories&q=&type=&language=dart">
           <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/arevalu?tab=repositories&q=&type=&language=kotlin">
+        <a href="https://github.com/ldvarevalo?tab=repositories&q=&type=&language=kotlin">
           <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
         </a>
       </td>
@@ -99,7 +99,7 @@
 * Kotlin / Go
 * Microfrontends
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arevalu&theme=material-palenight&repo=android-job-finder-ui)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ldvarevalo&theme=material-palenight&repo=android-job-finder-ui)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### 💬 Contacto
 
